@@ -1,6 +1,6 @@
 # Diseño PCB LPC845 - Proyecto KiCAD
 
-Este repositorio contiene el proyecto de diseño de PCB realizado en KiCAD para el microcontrolador **LPC845**. La placa está diseñada para soportar tanto el [**dashboard de visualización de datos**](https://github.com/AguileraGabriel/TD2-Dashboard-Termohigrometro.git) como el [**código para la Herramienta de Medición de Salto Térmico**](https://github.com/AguileraGabriel/Proyecto-Termohigrometro.git).
+Este repositorio contiene el proyecto de diseño de PCB realizado en KiCAD para el microcontrolador **LPC845**. La placa está diseñada para soportar tanto el [**dashboard de visualización de datos**](https://github.com/AguileraGabriel/TD2-Dashboard-Termohigrometro.git) como el código para la [**Herramienta de Medición de Salto Térmico**](https://github.com/AguileraGabriel/Proyecto-Termohigrometro.git).
 
 ---
 
