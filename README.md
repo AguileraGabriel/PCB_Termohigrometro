@@ -32,3 +32,15 @@ El diseño de la PCB asegura una integración óptima del LPC845 con los perifé
 
 ---
 
+## Imágenes
+### Diagrama del PCB
+Verificar pines del display OLED ya que pueden variar según fabricante.
+
+![Diagrama del PCB](Imagenes/Diagrama-Electrico.png)
+
+### Modelo 3D
+
+![Modelo 3D](Imagenes/Modelo-3D.png)
+
+
+---
